@@ -1,0 +1,9 @@
+{
+  "itemGroup.tresmonos.principal": "The Three Wise Monkeys",
+  "item.tresmonos.cinta": "Blindfold of the Monkey Who Sees No Evil",
+  "item.tresmonos.audifonos": "Headphones of the Monkey Who Hears No Evil",
+  "item.tresmonos.bufanda": "Scarf of the Monkey Who Speaks No Evil",
+  "tooltip.tresmonos.cinta": "Wear it on your head and you can't see anything.",
+  "tooltip.tresmonos.audifonos": "Wear them and you can't hear anyone in voice chat.",
+  "tooltip.tresmonos.bufanda": "Wear it and nobody can hear you in voice chat."
+}

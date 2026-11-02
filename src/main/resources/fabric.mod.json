@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "tresmonos",
+  "version": "${version}",
+  "name": "Los Tres Monos Sabios",
+  "description": "Una cinta (no ves), unos audífonos (no oyes) y una bufanda (no hablas) con integración para Simple Voice Chat.",
+  "authors": [
+    "ianntr997"
+  ],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.tresmonos.TresMonosSabios"
+    ],
+    "client": [
+      "com.tresmonos.client.TresMonosClient"
+    ],
+    "voicechat": [
+      "com.tresmonos.voicechat.TresMonosVoicechatPlugin"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "voicechat": "*"
+  }
+}

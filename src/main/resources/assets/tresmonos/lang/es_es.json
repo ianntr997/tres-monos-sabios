@@ -1,0 +1,9 @@
+{
+  "itemGroup.tresmonos.principal": "Los Tres Monos Sabios",
+  "item.tresmonos.cinta": "Cinta del Mono que No Ve",
+  "item.tresmonos.audifonos": "Audífonos del Mono que No Oye",
+  "item.tresmonos.bufanda": "Bufanda del Mono que No Habla",
+  "tooltip.tresmonos.cinta": "Al ponértela en la cabeza no ves nada.",
+  "tooltip.tresmonos.audifonos": "Al ponértelos no escuchas a nadie en el chat de voz.",
+  "tooltip.tresmonos.bufanda": "Al ponértela nadie te escucha en el chat de voz."
+}
